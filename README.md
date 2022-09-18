@@ -37,3 +37,7 @@ openvpn3 sessions-list
 ```
 
 ![](connected.png)
+
+# Connected
+
+![](current.png)
