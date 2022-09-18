@@ -11,3 +11,7 @@ https://openvpn.net/
 ![](access-server.png)
 
 ![](setup-complete.png)
+
+# OpenVPN Status
+
+![](status.png)
