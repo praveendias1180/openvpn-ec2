@@ -41,3 +41,11 @@ openvpn3 sessions-list
 # Connected
 
 ![](current.png)
+
+## Disconnect
+
+```
+openvpn3 session-manage --config client.ovpn --disconnect
+```
+
+![](disconnect.png)
